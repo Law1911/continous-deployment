@@ -34,7 +34,7 @@ public class Counter {
 	
 	public void triple(){
 		int i = 3;
-		multiplyBy(i);
+		multiplyBy( i);
 	}
 
 	public void powerBy(int i){
