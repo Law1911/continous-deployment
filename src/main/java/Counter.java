@@ -25,7 +25,7 @@ public class Counter {
 	}
 	
 	public void decreaseBy(int i) {
-		count-=i;
+		count-= i;
 	}
 	
 	public void multiplyBy(int i){
